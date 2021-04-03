@@ -1,4 +1,4 @@
-# wow-client 
+# wow-client black screen windowed mode
 Fix wow client windowed mode black screen <br>
 1)Open wow root folder <br>
 2)go to WTF folder <br>
